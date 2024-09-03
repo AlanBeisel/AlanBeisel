@@ -27,7 +27,6 @@ Soy un desarrollador Frontend apasionado por crear experiencias web impactantes 
 - Desarrollo de componentes reutilizables
 
 ## Cómo contactarme 📫
-[Agrega aquí tus métodos de contacto preferidos, por ejemplo:]
 - Email: eliaas.beisel@gmail.com
 - LinkedIn: https://www.linkedin.com/in/alan-beisel-65803029b/
 
