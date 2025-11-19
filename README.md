@@ -1,38 +1,52 @@
-# ¡Hola! Soy Alan Beisel 👋
+Hola! Soy Alan Beisel 👋
 
-## Sobre mí
-Soy un desarrollador Frontend apasionado por crear experiencias web impactantes y funcionales. Me enfoco en encontrar soluciones prácticas y eficientes a los desafíos de desarrollo.
+Sobre mí
 
-## Mis intereses 👀
-- Desarrollo web/mobile frontend
-- Diseño de interfaces de usuario (UI)
-- Optimización de rendimiento web
-- Nuevas tecnologías en el ecosistema de JavaScript
+Soy un desarrollador apasionado por la tecnología y por crear soluciones claras, eficientes y escalables. Disfruto transformar ideas en productos funcionales, priorizando la experiencia del usuario, la organización y la calidad del código.
 
-## Actualmente estoy aprendiendo 🌱
-- Profundizando en TypeScript
-- Explorando las últimas características de React
-- Mejorando mis habilidades en diseño responsivo
+Actualmente combino dos mundos que me encantan:
 
-## Tecnologías que manejo 💻
-- React
-- Tailwind CSS
-- TypeScript
-- HTML5 & CSS3
-- JavaScript (ES6+)
+Desarrollo Frontend (React, TypeScript, diseño UI/UX)
 
-## Busco colaborar en 💞️
-- Proyectos de código abierto relacionados con React, Expo, etc.
-- Iniciativas para mejorar la accesibilidad web
-- Desarrollo de componentes reutilizables
+Desarrollo en Microsoft Dynamics 365 Business Central con AL
 
-## Cómo contactarme 📫
-- Email: alanbeisel95@gmail.com
-- LinkedIn: https://www.linkedin.com/in/alan-beisel-65803029b/
+Intereses 👀
 
-## Algo interesante sobre mí ⚡
-Soy un apasionado de la música y el arte, especialmente de la guitarra. Esta pasión creativa es lo que me llevó a elegir el desarrollo frontend, donde creo que juega un papel importante
-la capacidad de ser creativo para encontrar las mejores soluciones.
+Desarrollo web/app frontend
+
+Integración de sistemas y automatización
+
+Diseño de interfaces centradas en el usuario
+
+Optimización de rendimiento
+
+Arquitecturas limpias y escalables
+
+Lo que estoy aprendiendo 🌱
+
+Tecnicatura en Programacion - UTN
+
+Tecnologías que manejo 💻
+
+Frontend: React, TypeScript, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3
+Business Central: AL, extensiones, reportes, eventos, flujos de negocio
+Herramientas: Git, REST APIs, Figma, Postman
+
+Me gustaría colaborar en 💞️
+
+Proyectos React y componentes reutilizables
+
+Soluciones Business Central / AL
+
+Automatización de procesos y mejoras de UX
+
+Iniciativas open source
+
+Cómo contactarme 📫
+
+📧 Email: alanbeisel95@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/alanbeisel/
 
 ---
 
